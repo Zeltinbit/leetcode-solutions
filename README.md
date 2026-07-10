@@ -9,6 +9,7 @@ My journey solving Data Structures and Algorithms problems.
 - Python
 
 ## Structure
+
 arrays/
 two_sum.cpp
 
@@ -18,7 +19,6 @@ problem_name.cpp
 linked_lists/
 problem_name.cpp
 
-
 ## Goals
 
 - Solve 200+ problems
@@ -27,10 +27,12 @@ problem_name.cpp
 
 ## Progress
 
-| Topic | Solved |
-|------|--------|
-| Arrays | 0 |
-| Strings | 0 |
-| Linked Lists | 0 |
-| Trees | 0 |
-| Graphs | 0 |
+| Topic        | Solved |
+| ------------ | ------ |
+| Arrays       | 1      |
+| Strings      | 0      |
+| Linked Lists | 0      |
+| Trees        | 0      |
+| Graphs       | 0      |
+| maths        | 1      |
+| hashmap      | 1      |
